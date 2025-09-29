@@ -1,4 +1,4 @@
-package basics.of.java;
+package basicsofjava;
 
 public class demo {
     public static void main(String[] args) {

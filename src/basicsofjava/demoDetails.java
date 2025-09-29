@@ -1,4 +1,4 @@
-package basics.of.java;
+package basicsofjava;
 
 public class demoDetails {
     String name;

@@ -5,6 +5,5 @@ package day10;
    It provides just a indication that the method have exceptions */
 
 public class throwDemo {
-    throw new InvalidInput();
 
 }

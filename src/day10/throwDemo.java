@@ -15,5 +15,7 @@ public class throwDemo {
         throw new ArithmeticException("Cannot divide by zero");
         }
         System.out.print(num/den);
+
+
     }
 }

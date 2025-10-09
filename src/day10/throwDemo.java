@@ -11,6 +11,7 @@ public class throwDemo {
         int den=0;
 
         if (den==0) {
+            //explicitly throwing the error
         throw new ArithmeticException("Cannot divide by zero");
         }
         System.out.print(num/den);

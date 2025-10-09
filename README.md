@@ -9,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Capgemini CSR Initiative | Core-to-Code (C2TC) Program
+### Capgemini CSR Initiative | Campus to Technical Careers (C2TC) Program
 
 </div>
 
@@ -27,70 +27,6 @@ The TNS India Foundation C2TC program is designed to transform aspiring develope
 - 💼 **Industry-Ready Skills**: Real-world projects and best practices
 - 🤝 **Mentorship**: Guidance from experienced Capgemini professionals
 - 🎓 **Career Preparation**: Interview preparation and soft skills development
-
-## 📂 Repository Structure
-
-```
-TNSIF-JAVA-SHARANSIDH-JR/
-│
-├── 📁 Core Java/
-│   ├── Basics & Syntax
-│   ├── OOPs Concepts
-│   ├── Collections Framework
-│   ├── Exception Handling
-│   └── Multithreading
-│
-├── 📁 Advanced Java/
-│   ├── JDBC
-│   ├── Servlets
-│   ├── JSP
-│   └── Hibernate
-│
-├── 📁 Spring Framework/
-│   ├── Spring Core
-│   ├── Spring Boot
-│   ├── Spring MVC
-│   └── Spring Data JPA
-│
-├── 📁 Frontend Development/
-│   ├── HTML5 & CSS3
-│   ├── JavaScript
-│   ├── Bootstrap
-│   └── React Basics
-│
-├── 📁 Database Management/
-│   ├── SQL Queries
-│   ├── MySQL
-│   └── Database Design
-│
-└── 📁 Projects/
-    ├── Mini Projects
-    └── Final Capstone Project
-```
-
-## 🛠️ Technologies & Tools
-
-### Backend
-- **Core Java** - Object-Oriented Programming fundamentals
-- **Spring Boot** - Modern enterprise application development
-- **Hibernate** - Object-Relational Mapping (ORM)
-- **RESTful APIs** - Web service development
-
-### Frontend
-- **HTML5 & CSS3** - Modern web design
-- **JavaScript** - Interactive user interfaces
-- **Bootstrap** - Responsive design framework
-- **React** - Component-based UI development
-
-### Database
-- **MySQL** - Relational database management
-- **SQL** - Database querying and optimization
-
-### Development Tools
-- **Eclipse IDE** / **IntelliJ IDEA**
-- **Git & GitHub** - Version control
-- **Maven** - Build automation and dependency management
-- **Postman** - API testing
 
 ## 📚 Learning Modules
 
